@@ -9,3 +9,5 @@ Dockerfile base for fast installs of scientific python packages related to the f
 
   FROM digitalbridge/scientificpython:latest
   CMD [ "python", "./your-daemon-or-script.py" ]
+
+See https://hub.docker.com/r/digitalbridge/scientificpython/
