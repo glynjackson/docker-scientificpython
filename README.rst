@@ -1,7 +1,7 @@
 
 
-Broker RabbitMQ
-===============
+DockerFile for scientific python packages
+=========================================
 
 Dockerfile base for fast installs of scientific python packages related to the field computer vision.
 
